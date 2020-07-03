@@ -1,0 +1,26 @@
+{
+  "hits": [
+    {
+      "ObjectId": "1481FE379BD9C25CF344FBDFDD033ABD934E4547",
+      "HierarchyLvl0": "topic of something",
+      "HierarchyLvl1": "title about something",
+      "HierarchyLvl2": "Rainbow kittens",
+      "HierarchyLvl3": "value, value, value",
+      "HierarchyLvl4": "blah blah blah",
+      "HierarchyLvl5": "content goes here",
+      "Content": "random content here",
+      "Url": "/some/sample/route",
+      "Tags": [
+        "Some",
+        "Data",
+        "Here"
+      ]
+    }
+  ],
+  "offset": 0,
+  "limit": 50,
+  "nbHits": 1470,
+  "exhaustiveNbHits": false,
+  "processingTimeMs": 3,
+  "query": "query"
+}

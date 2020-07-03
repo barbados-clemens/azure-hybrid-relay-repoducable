@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender.HTTP", "Sender.HTTP\Sender.HTTP.csproj", "{7B7BA158-34FB-4140-8B22-412ADDD1CBCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listener.HTTP", "Listener.HTTP\Listener.HTTP.csproj", "{AC96564A-14AA-481C-99D8-42FC1C4354A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{DF6A5A63-24EC-463A-870A-2CD95FE13811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B7BA158-34FB-4140-8B22-412ADDD1CBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7BA158-34FB-4140-8B22-412ADDD1CBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7BA158-34FB-4140-8B22-412ADDD1CBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7BA158-34FB-4140-8B22-412ADDD1CBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC96564A-14AA-481C-99D8-42FC1C4354A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC96564A-14AA-481C-99D8-42FC1C4354A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC96564A-14AA-481C-99D8-42FC1C4354A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC96564A-14AA-481C-99D8-42FC1C4354A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF6A5A63-24EC-463A-870A-2CD95FE13811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF6A5A63-24EC-463A-870A-2CD95FE13811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF6A5A63-24EC-463A-870A-2CD95FE13811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF6A5A63-24EC-463A-870A-2CD95FE13811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
