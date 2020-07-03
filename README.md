@@ -9,4 +9,5 @@
 1. Run the sender project
 1. View console and that the JSON content is empty and if you increase the JSON content you'll see the truncation of the content.
 
+For issue reported here https://github.com/MicrosoftDocs/azure-docs/issues/58347
 
